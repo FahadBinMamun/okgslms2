@@ -1,3 +1,8 @@
+"scripts": {
+  "start": "npx prisma generate && node server.js"
+}
+
+
 {
   "name": "okgslms2-backend",
   "version": "1.0.0",
